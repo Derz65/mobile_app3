@@ -20,5 +20,5 @@
 <br><strong>Задание № 19: Фильтрация Stram с использованием where</strong></br>![](https://github.com/Derz65/mobile_app3/raw/main/screenshot/19.png)
 <br><strong>Задание № 20: :Использование async/await c фильтрацией Stream</strong></br>![](https://github.com/Derz65/mobile_app3/raw/main/screenshot/20.png)
 <br><strong>Задание № 1: Асинхронная загрузка даннаых с API</strong></br><b>![](screenshot/1.1.png)</b> 
-<br><strong>Задание № 2: Асинхронное выполнение нескольких задач</strong></br><b>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/2.1.png)</b>
-<br><strong>Задание № 3: Асинхронная обработка потока данных</strong></br>![](https://github.com/Derz65/mobile_app2/raw/main/screenshot/3.1.png) 
+<br><strong>Задание № 2: Асинхронное выполнение нескольких задач</strong></br><b>![](https://github.com/Derz65/mobile_app3/raw/main/screenshot/2.1.png)</b>
+<br><strong>Задание № 3: Асинхронная обработка потока данных</strong></br>![](https://github.com/Derz65/mobile_app3/raw/main/screenshot/3.1.png) 
